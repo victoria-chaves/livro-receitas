@@ -4,3 +4,4 @@ Temos receitas de:
 
 - Strogonoff de frango
 - pavê
+- bolo de chocolate
