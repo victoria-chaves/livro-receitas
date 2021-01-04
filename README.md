@@ -3,3 +3,4 @@
 Temos receitas de:
 
 - Strogonoff de frango
+- pavê
